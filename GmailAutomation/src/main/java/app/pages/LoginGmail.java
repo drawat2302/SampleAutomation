@@ -6,7 +6,7 @@ public class LoginGmail extends BrowserSupport  {
 
 	public LoginGmail() {
 		
-		BrowserSupport.driver;
+		//BrowserSupport.driver;
 	}
 
 }
